@@ -1,0 +1,53 @@
+body{
+   background-color: aliceblue;
+}
+header nav ul{
+    list-style: none;
+    padding: 25px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+nav ul li:hover{
+   color: white;
+   background-color: orange;
+}
+ li{
+    display: inline-block;
+    margin-right: 50px;
+    color: white;
+    
+ }
+
+ nav a{
+    text-decoration: none;
+    color: white;
+ }
+ .rem p{
+   padding: 20px;
+   margin: 20px;
+   text-transform: justify;
+   font-size: 25px;
+ }
+
+ .rem h1{
+   font-size: 50px;
+
+ }
+ h1{
+   text-align: center;
+ }
+
+ main {
+   background-color: white;
+   margin: 100px;
+   border: px; ;
+   text-align: center;
+  text-decoration: justify;
+
+ }
+ 
+ 
